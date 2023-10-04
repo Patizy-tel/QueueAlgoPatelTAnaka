@@ -52,7 +52,7 @@ class PriorityQueue {
     }
   }
 
-
+ 
   let priorityQueue = new PriorityQueue();
 priorityQueue.enqueue("A", 3);
 priorityQueue.enqueue("B", 1);
